@@ -1,0 +1,24 @@
+= MetaData.Schema.UId "37af1ed9-5b10-45ec-8378-3248a06507be"
+= MetaData.Schema.A2 "LuaSourceCodeEditPage"
+= MetaData.Schema.A5 "6e8aa9c1-26d1-4904-ad3b-2119b5557bd1"
+= MetaData.Schema.B6 "e77c8aa1-b8fd-480d-a020-388ec7107232"
+= MetaData.Schema.B8 "7.10.0.1751"
+= MetaData.Schema.HD1 "3b77f4c4-3ba2-4bcc-b362-c07ef1a5f6c8"
++ MetaData.Schema.HD5 {
+  "UId": "92dc3d71-f1eb-47d3-8e52-28d489c4929a",
+  "A2": "LuaSourceCodeEdit",
+  "A3": "37af1ed9-5b10-45ec-8378-3248a06507be",
+  "A4": "37af1ed9-5b10-45ec-8378-3248a06507be",
+  "HW1": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+  "HW2": "ClientUnitSchemaManager"
+}
++ MetaData.Schema.HD5 {
+  "UId": "193b7302-1e3f-4d9e-b9a2-d4c347cb7c57",
+  "A2": "SourceCodeEditGenerator",
+  "A3": "37af1ed9-5b10-45ec-8378-3248a06507be",
+  "A4": "37af1ed9-5b10-45ec-8378-3248a06507be",
+  "HW1": "cc6a5e37-7815-4e1c-b405-479a0e7c03e8",
+  "HW2": "ClientUnitSchemaManager"
+}
+~ MetaData.Schema.HD5 ["7d135c16-ef8d-4333-92a9-895417f3bf57","92dc3d71-f1eb-47d3-8e52-28d489c4929a","193b7302-1e3f-4d9e-b9a2-d4c347cb7c57"]
++ MetaData.Schema.B7 false

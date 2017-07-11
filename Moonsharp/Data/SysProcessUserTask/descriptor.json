@@ -1,0 +1,63 @@
+﻿{
+  "Descriptor": {
+    "UId": "5da3bacb-ccb9-4c7b-a287-184609b455b9",
+    "Name": "SysProcessUserTask",
+    "ModifiedOnUtc": "\/Date(1493370291000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "48f06023-1771-45a8-9963-ba4cbb5fb5c4",
+      "Name": "SysProcessUserTask"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "cba9c2d9-7f00-4e13-8d4b-9e7600756311",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "QuickModelEditPageSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "dca9757d-d70d-48d2-b9bc-a85adc98a857",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysUserTaskSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "1197f3f5-40f7-4e19-b756-c5c98a7d0611",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "IsQuickModel",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "665448a6-ddbc-4be1-a35d-591d24d89c8b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Position",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "d357532d-5b37-4c1f-86ff-40beec3a4d12",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysImage",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "9ed509d4-808b-42dd-904d-10a3df4408fb",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Caption",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+= MetaData.Schema.UId "dbee2029-ce8e-49f1-87c0-d9143f99846f"
+= MetaData.Schema.A2 "LuaScriptTaskPropertiesPage"
+= MetaData.Schema.A5 "b3cf814f-558e-4ab2-8e24-f08dc48a2790"
+= MetaData.Schema.B2 []
+= MetaData.Schema.B6 "e77c8aa1-b8fd-480d-a020-388ec7107232"
+= MetaData.Schema.B8 "0.0.0.0"
+= MetaData.Schema.HD1 "10a8efdc-8474-4a9a-b28f-ab96ec9bbe4a"
++ MetaData.Schema.HD5 {
+  "UId": "fc625af2-1022-4893-a6ff-24766c4eefad",
+  "A2": "SourceCodeEditEnums",
+  "A3": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+  "A4": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+  "HW1": "712489df-b5be-43e2-b71a-7d22a5424b4d",
+  "HW2": "ClientUnitSchemaManager"
+}
++ MetaData.Schema.HD5 {
+  "UId": "aea8dd16-865d-4db7-8f97-2b58747e94e3",
+  "A2": "SourceCodeEdit",
+  "A3": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+  "A4": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+  "HW1": "d598effc-78e4-4c93-9086-1b965275fa5b",
+  "HW2": "ClientUnitSchemaManager"
+}
+- MetaData.Schema.HD5.["0bdc5976-31ff-4cf0-b3b6-4e319bf670e0"]
+- MetaData.Schema.HD5.["0a47e377-e0f8-4f26-8e46-5454f3703089"]
+- MetaData.Schema.HD5.["7a03316e-44ca-48a8-830f-638537af1efe"]
+- MetaData.Schema.HD5.["0bcad384-3d01-437e-8c19-e07615f4887f"]
+- MetaData.Schema.HD5.["046320c6-a851-4be3-8458-3c4adb5f69d9"]
+- MetaData.Schema.HD5.["0bc27089-bfbc-4b4a-a41a-922de52e9aa7"]
+~ MetaData.Schema.HD5 ["fc625af2-1022-4893-a6ff-24766c4eefad","aea8dd16-865d-4db7-8f97-2b58747e94e3"]
+= MetaData.Schema.HD8 []
++ MetaData.Schema.B7 false

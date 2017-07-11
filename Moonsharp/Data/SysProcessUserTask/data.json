@@ -1,0 +1,37 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "cba9c2d9-7f00-4e13-8d4b-9e7600756311",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "dca9757d-d70d-48d2-b9bc-a85adc98a857",
+          "Value": "9ce5f3af-245c-4d88-8102-72f2115c8cc8"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fc310271-5f78-44ab-b176-74819634ba56"
+        },
+        {
+          "SchemaColumnUId": "d357532d-5b37-4c1f-86ff-40beec3a4d12",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "9ed509d4-808b-42dd-904d-10a3df4408fb",
+          "Value": "Lua script"
+        },
+        {
+          "SchemaColumnUId": "1197f3f5-40f7-4e19-b756-c5c98a7d0611",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "665448a6-ddbc-4be1-a35d-591d24d89c8b",
+          "Value": 9
+        }
+      ]
+    }
+  ]
+}

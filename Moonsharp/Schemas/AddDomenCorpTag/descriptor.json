@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5ff77cf1-aed2-4a89-9324-e1e900e3a806",
+    "Name": "AddDomenCorpTag",
+    "ModifiedOnUtc": "\/Date(1499793859000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add domen corporate tag to contact (Example)",
+    "DependsOn": []
+  }
+}

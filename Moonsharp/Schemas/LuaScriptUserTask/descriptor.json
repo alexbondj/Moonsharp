@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+    "Name": "LuaScriptUserTask",
+    "ModifiedOnUtc": "\/Date(1493338977000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Lua script",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,38 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+      "A2": "LuaSourceCodeEdit",
+      "A5": "6e8aa9c1-26d1-4904-ad3b-2119b5557bd1",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "e77c8aa1-b8fd-480d-a020-388ec7107232",
+      "B8": "7.10.0.1751",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [
+        {
+          "UId": "3a13e610-e0ac-4a93-927f-a4216732febf",
+          "A2": "SourceCodeEdit",
+          "A3": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+          "A4": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+          "HW1": "d598effc-78e4-4c93-9086-1b965275fa5b",
+          "HW2": "ClientUnitSchemaManager"
+        },
+        {
+          "UId": "e970c853-5746-4fbb-9566-4f5ef4d13d79",
+          "A2": "AceLua",
+          "A3": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+          "A4": "f8d2d598-5525-49ad-989b-b9c1b771a395",
+          "HW1": "fea89e88-592d-4eb4-a87a-a73023d90806",
+          "HW2": "ClientUnitSchemaManager"
+        }
+      ],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }

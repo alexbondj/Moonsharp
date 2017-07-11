@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.LuaScriptUserTask1.Caption" Value="Add domen corporate tag Lua script" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Caption" Value="Open contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="To do" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="minutes" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.DisplayValue" Value="false" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.DisplayValue" Value="Contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Value" Value="Contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.DisplayValue" Value="[#ContactId#]" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="Caption" Value="Add domen corporate tag to contact (Example)" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="Parameters.ContactId.Caption" Value="ContactId" />
+			<Item Name="Parameters.ContactId.DisplayValue" Value="new Guid(&quot;C4ED336C-3E9B-40FE-8B82-5632476472B4&quot;)" />
+			<Item Name="Parameters.CorporateTagId.Caption" Value="CorporateTagId" />
+			<Item Name="Parameters.CorporateTagId.DisplayValue" Value="new Guid(&quot;5D79E393-F8E0-4830-A76B-F3C7BCE529ED&quot;)" />
+		</Items>
+	</Group>
+</Resources>

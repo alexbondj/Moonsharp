@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "fea89e88-592d-4eb4-a87a-a73023d90806",
+      "A2": "AceLua",
+      "A5": "6e8aa9c1-26d1-4904-ad3b-2119b5557bd1",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "e77c8aa1-b8fd-480d-a020-388ec7107232",
+      "B8": "7.10.0.1751",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [
+        {
+          "UId": "b6df37c7-293d-4566-91a4-d9be5364d15a",
+          "A2": "AceEdit",
+          "A3": "fea89e88-592d-4eb4-a87a-a73023d90806",
+          "A4": "fea89e88-592d-4eb4-a87a-a73023d90806",
+          "HW1": "278c5508-793d-40a2-9e3b-8e35f3257d54",
+          "HW2": "ClientUnitSchemaManager"
+        }
+      ],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }

@@ -1,0 +1,148 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+      "A2": "LuaScriptUserTask",
+      "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+      "B1": [
+        {
+          "UId": "cddad511-da18-40f1-9a7a-2de5a1772210",
+          "A2": "GetResultParameterAllValues",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+          "C1": "Dictionary<Guid, string>",
+          "C2": true,
+          "C3": true,
+          "C4": "return new Dictionary<Guid, string>();",
+          "C6": [],
+          "C7": [
+            {
+              "UId": "4109870c-a772-4dce-a29a-ddc7a6bf2dce",
+              "A2": "userConnection",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "UserConnection"
+            },
+            {
+              "UId": "af96082e-51ba-4f51-97ea-19126f343521",
+              "A2": "schemaUserTask",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "ProcessSchemaUserTask"
+            }
+          ]
+        },
+        {
+          "UId": "eadf095f-cd47-4012-99dd-b80311d52d9a",
+          "A2": "CompleteExecuting",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+          "C1": "bool",
+          "C2": true,
+          "C3": true,
+          "C4": "return base.CompleteExecuting(parameters);",
+          "C6": [],
+          "C7": [
+            {
+              "UId": "970c785c-8f37-43fe-a1b4-6a241c6f08b3",
+              "A2": "parameters",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "object[]",
+              "AA3": true
+            }
+          ]
+        },
+        {
+          "UId": "61a20b9c-2c38-4cba-a650-c449d43d26b7",
+          "A2": "CancelExecuting",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+          "C1": "void",
+          "C2": true,
+          "C3": true,
+          "C4": "base.CancelExecuting(parameters);",
+          "C6": [],
+          "C7": [
+            {
+              "UId": "49b97247-8e9a-4af1-a628-7f8dffa0ab6e",
+              "A2": "parameters",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "object[]",
+              "AA3": true
+            }
+          ]
+        },
+        {
+          "UId": "44303268-50e8-434c-8fb6-2b21eb39b3c9",
+          "A2": "GetExecutionData",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+          "C1": "string",
+          "C2": true,
+          "C3": true,
+          "C4": "return string.Empty;",
+          "C6": [],
+          "C7": []
+        },
+        {
+          "UId": "895a76b1-56a6-476e-9d94-4bb3719ba5ec",
+          "A2": "SynchronizeDynamicParameters",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+          "C1": "void",
+          "C2": true,
+          "C3": true,
+          "C4": "base.SynchronizeDynamicParameters(userConnection, target);",
+          "C6": [],
+          "C7": [
+            {
+              "UId": "168c9c46-0ddc-462d-be64-d077800ad81b",
+              "A2": "userConnection",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "UserConnection"
+            },
+            {
+              "UId": "b2d34045-f5e8-4f19-bbec-c2afee86b5cf",
+              "A2": "target",
+              "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+              "A5": "b3cf814f-558e-4ab2-8e24-f08dc48a2790",
+              "AA2": "ProcessUserTaskSchema"
+            }
+          ]
+        }
+      ],
+      "B2": [],
+      "B3": [],
+      "B6": "e77c8aa1-b8fd-480d-a020-388ec7107232",
+      "B8": "0.0.0.0",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "85aa16fc-d095-45f0-bafc-7c15ffdda5d0",
+          "A2": "Script",
+          "A3": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "A4": "9ce5f3af-245c-4d88-8102-72f2115c8cc8",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L6": true,
+          "L15": true
+        }
+      ],
+      "FK1": "return Terrasoft.Configuration.Lua.LuaScriptExecutor.Execute(Script, Owner);",
+      "FK11": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+      "FK12": "#839DC3"
+    }
+  }

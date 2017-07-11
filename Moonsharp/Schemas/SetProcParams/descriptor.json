@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "312cee79-e8ae-4e0f-ab9a-3e3552fc2125",
+    "Name": "SetProcParams",
+    "ModifiedOnUtc": "\/Date(1499793817000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Set process parameters (Example)",
+    "DependsOn": []
+  }
+}

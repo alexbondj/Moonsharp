@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "37af1ed9-5b10-45ec-8378-3248a06507be",
+    "Name": "LuaSourceCodeEditPage",
+    "ModifiedOnUtc": "\/Date(1493326076000)\/",
+    "Parent": {
+      "UId": "3b77f4c4-3ba2-4bcc-b362-c07ef1a5f6c8",
+      "Name": "SourceCodeEditPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LuaSourceCodeEditPage"
+  }
+}

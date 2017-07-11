@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "dbee2029-ce8e-49f1-87c0-d9143f99846f",
+    "Name": "LuaScriptTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1493370136000)\/",
+    "Parent": {
+      "UId": "10a8efdc-8474-4a9a-b28f-ab96ec9bbe4a",
+      "Name": "BaseProcessSchemaElementPropertiesPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LuaScriptTaskPropertiesPage"
+  }
+}

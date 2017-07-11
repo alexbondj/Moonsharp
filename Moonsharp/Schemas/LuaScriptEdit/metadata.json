@@ -1,0 +1,21 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "b1def139-dce3-41c8-a4d5-831a8747ae30",
+      "A2": "LuaScriptEdit",
+      "A5": "6ef2fbff-21b4-4bc8-a444-547f233bcd1c",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "e77c8aa1-b8fd-480d-a020-388ec7107232",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 2,
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.EDIT_VIEW_MODEL_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
